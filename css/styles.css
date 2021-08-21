@@ -5,4 +5,11 @@ body {
 
 img {
   border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+footer {
+  text-align: center;
 }
